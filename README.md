@@ -35,7 +35,7 @@ The app allows users to check real-time weather information for any city, includ
 ---
 
 ## 🌍 Live Demo
-*(Add your hosted link here once deployed)*
+https://weather-app-78do.onrender.com/
 
 ---
 
